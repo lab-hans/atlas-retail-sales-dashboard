@@ -1,0 +1,801 @@
+customer_id,customer_name,segment,region,state,city
+ON-10448,Olivia Nguyen,Corporate,East,Massachusetts,Boston
+QW-10720,Quinn Wong,Corporate,West,California,San Francisco
+KJ-10486,Kara Jones,Consumer,South,North Carolina,Charlotte
+OC-10062,Oscar Chen,Consumer,West,Washington,Seattle
+WI-10619,Will Iyer,Consumer,East,Pennsylvania,Philadelphia
+OL-10040,Olivia Lopez,Corporate,East,Florida,Jacksonville
+YZ-10493,Yara Zhang,Consumer,East,Massachusetts,Boston
+SB-10384,Sam Bauer,Consumer,South,Virginia,Richmond
+ON-10422,Olivia Nguyen,Consumer,South,Georgia,Atlanta
+RG-10178,Reed Green,Corporate,East,Pennsylvania,Philadelphia
+GJ-10709,Grace Jones,Corporate,West,Washington,Seattle
+PB-10082,Paul Bauer,Home Office,East,Ohio,Columbus
+QJ-10750,Quinn Jones,Consumer,East,Florida,Jacksonville
+JY-10047,Jack Young,Corporate,East,New York,New York City
+EJ-10242,Ethan Jones,Consumer,Central,Illinois,Chicago
+AN-10421,Aaron Nguyen,Consumer,East,New York,New York City
+HO-10413,Henry Owens,Corporate,South,Georgia,Atlanta
+BG-10207,Bella Green,Consumer,West,Arizona,Phoenix
+UB-10230,Umar Brown,Consumer,West,Oregon,Portland
+WB-10444,Will Brown,Consumer,West,Washington,Seattle
+TM-10017,Tara Miller,Corporate,Central,Texas,Houston
+AG-10118,Aaron Green,Consumer,South,Louisiana,New Orleans
+LM-10316,Liam Miller,Consumer,West,California,Los Angeles
+SA-10019,Sam Adams,Consumer,West,Washington,Seattle
+KO-10069,Kara Owens,Corporate,West,Arizona,Phoenix
+ZH-10021,Zack Hughes,Consumer,West,Arizona,Phoenix
+VV-10653,Vera Vance,Consumer,South,North Carolina,Charlotte
+LE-10090,Liam Evans,Consumer,East,Massachusetts,Boston
+VI-10147,Vera Iyer,Corporate,West,California,San Francisco
+CP-10636,Carlos Patel,Corporate,Central,Michigan,Detroit
+QE-10346,Quinn Evans,Consumer,South,North Carolina,Charlotte
+DF-10358,Dana Ford,Corporate,Central,Illinois,Chicago
+QU-10525,Quinn Usman,Consumer,Central,Texas,Houston
+DM-10499,Dana Miller,Consumer,East,Florida,Jacksonville
+BG-10330,Bella Green,Consumer,West,Washington,Seattle
+ZP-10699,Zack Patel,Corporate,East,Massachusetts,Boston
+XA-10182,Xena Adams,Corporate,Central,Michigan,Detroit
+VO-10170,Vera Owens,Home Office,West,California,Los Angeles
+BG-10411,Bella Green,Consumer,South,Tennessee,Nashville
+OE-10697,Olivia Evans,Consumer,South,Tennessee,Nashville
+UL-10717,Umar Lopez,Consumer,East,Massachusetts,Boston
+KI-10596,Kara Iyer,Consumer,East,Massachusetts,Boston
+DY-10002,Dana Young,Consumer,Central,Illinois,Chicago
+PS-10583,Paul Singh,Home Office,Central,Michigan,Detroit
+NP-10131,Nadia Patel,Consumer,Central,Illinois,Chicago
+TL-10696,Tara Lopez,Corporate,East,New York,New York City
+FD-10100,Fiona Diaz,Corporate,Central,Texas,Houston
+BE-10412,Bella Evans,Corporate,West,Arizona,Phoenix
+WG-10432,Will Green,Consumer,Central,Texas,Houston
+QO-10271,Quinn Owens,Consumer,East,Ohio,Columbus
+IU-10386,Ivy Usman,Home Office,South,Georgia,Atlanta
+JY-10571,Jack Young,Consumer,East,Pennsylvania,Philadelphia
+TP-10531,Tara Patel,Home Office,West,California,San Francisco
+JB-10569,Jack Brown,Consumer,East,New York,New York City
+YO-10190,Yara Owens,Consumer,Central,Illinois,Chicago
+WC-10447,Will Chen,Consumer,East,Ohio,Columbus
+UO-10101,Umar Owens,Corporate,East,Massachusetts,Boston
+CJ-10194,Carlos Jones,Consumer,East,New York,New York City
+FG-10778,Fiona Green,Corporate,East,Massachusetts,Boston
+RC-10034,Ruth Chen,Consumer,Central,Texas,Houston
+HO-10372,Henry Owens,Home Office,Central,Illinois,Chicago
+MJ-10394,Maya Jones,Corporate,East,New York,New York City
+PA-10185,Paul Adams,Consumer,Central,Texas,Houston
+OG-10102,Olivia Green,Home Office,Central,Illinois,Chicago
+BJ-10584,Bella Jones,Corporate,South,Virginia,Richmond
+EW-10474,Ethan Wong,Corporate,West,California,Los Angeles
+NY-10446,Nadia Young,Corporate,Central,Illinois,Chicago
+FU-10435,Fiona Usman,Consumer,Central,Illinois,Chicago
+BC-10146,Bella Chen,Consumer,South,Louisiana,New Orleans
+RK-10249,Reed Khan,Corporate,South,Virginia,Richmond
+QW-10761,Quinn Wong,Home Office,East,Pennsylvania,Philadelphia
+WC-10357,Will Chen,Consumer,West,Arizona,Phoenix
+MW-10023,Maya Wong,Consumer,East,Florida,Jacksonville
+LB-10475,Liam Bauer,Home Office,West,Oregon,Portland
+HR-10149,Henry Reed,Consumer,West,Arizona,Phoenix
+GC-10004,Grace Chen,Consumer,East,Massachusetts,Boston
+JS-10536,Jack Singh,Corporate,West,California,Los Angeles
+SL-10506,Sam Lopez,Corporate,Central,Texas,Houston
+CD-10173,Carlos Diaz,Corporate,South,Louisiana,New Orleans
+ZZ-10592,Zack Zhang,Corporate,West,Washington,Seattle
+BD-10145,Bella Diaz,Consumer,East,Pennsylvania,Philadelphia
+PH-10401,Paul Hughes,Home Office,West,Arizona,Phoenix
+AZ-10445,Aaron Zhang,Home Office,Central,Minnesota,Minneapolis
+OO-10556,Oscar Owens,Home Office,West,Oregon,Portland
+ND-10402,Nadia Diaz,Home Office,West,Oregon,Portland
+BC-10344,Bella Cole,Consumer,West,Washington,Seattle
+BC-10589,Bella Chen,Consumer,East,Ohio,Columbus
+EC-10625,Ethan Cole,Consumer,West,Arizona,Phoenix
+VI-10652,Vera Iyer,Consumer,East,Florida,Jacksonville
+NH-10042,Noah Hughes,Home Office,East,Ohio,Columbus
+VC-10498,Vera Chen,Corporate,South,Tennessee,Nashville
+XE-10222,Xena Ellis,Consumer,West,Arizona,Phoenix
+RZ-10462,Reed Zhang,Consumer,East,Pennsylvania,Philadelphia
+JV-10012,Jack Vance,Corporate,Central,Texas,Houston
+VC-10782,Vera Chen,Consumer,East,Pennsylvania,Philadelphia
+NF-10408,Noah Ford,Corporate,Central,Michigan,Detroit
+PC-10097,Priya Cole,Corporate,West,California,Los Angeles
+ON-10025,Oscar Nguyen,Consumer,West,Oregon,Portland
+PN-10177,Priya Nguyen,Home Office,Central,Texas,Houston
+ML-10213,Maya Lopez,Corporate,East,Massachusetts,Boston
+QC-10759,Quinn Chen,Consumer,East,Ohio,Columbus
+QU-10650,Quinn Usman,Home Office,West,California,Los Angeles
+TL-10269,Tara Lopez,Consumer,West,California,San Francisco
+MN-10245,Maya Nguyen,Corporate,East,Florida,Jacksonville
+MB-10360,Maya Brown,Home Office,West,California,San Francisco
+ZT-10123,Zack Turner,Home Office,Central,Minnesota,Minneapolis
+HG-10214,Henry Green,Consumer,South,Tennessee,Nashville
+FG-10456,Fiona Green,Consumer,West,Oregon,Portland
+DJ-10415,Dana Jones,Consumer,South,Virginia,Richmond
+DS-10675,Dana Singh,Corporate,South,Georgia,Atlanta
+NW-10740,Nadia Wong,Consumer,Central,Michigan,Detroit
+HM-10312,Henry Miller,Consumer,West,California,San Francisco
+PH-10669,Priya Hughes,Corporate,Central,Texas,Houston
+EK-10276,Ethan Khan,Consumer,South,Georgia,Atlanta
+UA-10352,Umar Adams,Consumer,West,California,San Francisco
+RP-10501,Reed Patel,Consumer,East,Ohio,Columbus
+BE-10727,Bella Ellis,Consumer,East,Pennsylvania,Philadelphia
+MI-10677,Maya Iyer,Consumer,East,Pennsylvania,Philadelphia
+KT-10634,Kara Turner,Consumer,West,California,San Francisco
+DB-10143,Dana Bauer,Consumer,South,Tennessee,Nashville
+NM-10171,Nadia Miller,Corporate,Central,Michigan,Detroit
+PK-10708,Priya Khan,Consumer,East,Ohio,Columbus
+RC-10154,Reed Cole,Home Office,South,Louisiana,New Orleans
+VV-10238,Vera Vance,Corporate,Central,Illinois,Chicago
+YL-10392,Yara Lopez,Consumer,East,Pennsylvania,Philadelphia
+CY-10156,Carlos Young,Consumer,East,Pennsylvania,Philadelphia
+BP-10201,Bella Patel,Corporate,West,California,Los Angeles
+JY-10309,Jack Young,Home Office,South,North Carolina,Charlotte
+PL-10788,Paul Lopez,Home Office,Central,Illinois,Chicago
+RB-10016,Ruth Brown,Consumer,East,Massachusetts,Boston
+YV-10612,Yara Vance,Home Office,Central,Michigan,Detroit
+BM-10234,Bella Miller,Consumer,West,Oregon,Portland
+VI-10443,Vera Iyer,Consumer,East,Pennsylvania,Philadelphia
+XC-10246,Xena Cole,Consumer,Central,Illinois,Chicago
+OJ-10748,Oscar Jones,Home Office,South,Louisiana,New Orleans
+EB-10287,Ethan Bauer,Consumer,East,New York,New York City
+QN-10022,Quinn Nguyen,Corporate,Central,Texas,Houston
+BI-10138,Bella Iyer,Consumer,West,Arizona,Phoenix
+TF-10572,Tara Ford,Home Office,South,North Carolina,Charlotte
+AK-10663,Aaron Khan,Consumer,West,Arizona,Phoenix
+RO-10032,Ruth Owens,Home Office,West,Arizona,Phoenix
+OK-10009,Oscar Khan,Consumer,East,Florida,Jacksonville
+RZ-10393,Reed Zhang,Corporate,Central,Minnesota,Minneapolis
+AK-10643,Aaron Khan,Corporate,Central,Texas,Dallas
+OE-10613,Oscar Ellis,Corporate,West,California,San Francisco
+NC-10790,Noah Chen,Home Office,South,Tennessee,Nashville
+LA-10227,Liam Adams,Consumer,East,New York,New York City
+LB-10183,Liam Brown,Consumer,Central,Minnesota,Minneapolis
+NH-10284,Noah Hughes,Consumer,South,Tennessee,Nashville
+WG-10605,Will Green,Consumer,West,California,San Francisco
+KA-10254,Kara Adams,Consumer,Central,Texas,Houston
+JL-10517,Jack Lopez,Corporate,West,Washington,Seattle
+WA-10094,Will Adams,Corporate,West,California,Los Angeles
+QI-10086,Quinn Iyer,Home Office,West,Arizona,Phoenix
+KF-10351,Kara Ford,Corporate,West,Washington,Seattle
+XB-10450,Xena Brown,Home Office,West,California,Los Angeles
+AP-10365,Aaron Patel,Consumer,South,Georgia,Atlanta
+SK-10136,Sam Khan,Consumer,East,Florida,Jacksonville
+ME-10129,Maya Evans,Consumer,Central,Texas,Houston
+QC-10092,Quinn Cole,Corporate,East,Massachusetts,Boston
+ZC-10065,Zack Chen,Consumer,Central,Texas,Houston
+EV-10529,Ethan Vance,Home Office,East,Pennsylvania,Philadelphia
+TW-10283,Tara Wong,Consumer,Central,Michigan,Detroit
+NH-10257,Noah Hughes,Consumer,East,New York,New York City
+LI-10369,Liam Iyer,Consumer,East,Massachusetts,Boston
+UE-10290,Umar Ellis,Consumer,West,California,Los Angeles
+FB-10080,Fiona Bauer,Consumer,West,Washington,Seattle
+ME-10020,Maya Ellis,Consumer,West,California,San Francisco
+QE-10783,Quinn Evans,Corporate,South,Tennessee,Nashville
+JI-10324,Jack Iyer,Consumer,South,North Carolina,Charlotte
+DL-10353,Dana Lopez,Consumer,West,California,San Francisco
+QD-10599,Quinn Diaz,Consumer,East,Pennsylvania,Philadelphia
+DG-10567,Dana Green,Corporate,South,North Carolina,Charlotte
+AU-10485,Aaron Usman,Home Office,South,Georgia,Atlanta
+GL-10248,Grace Lopez,Consumer,West,California,Los Angeles
+RK-10762,Ruth Khan,Corporate,West,Oregon,Portland
+IT-10301,Ivy Turner,Home Office,West,California,San Francisco
+PO-10279,Paul Owens,Consumer,East,Florida,Jacksonville
+JE-10442,Jack Evans,Consumer,Central,Texas,Houston
+AN-10673,Aaron Nguyen,Home Office,East,Massachusetts,Boston
+SA-10128,Sam Adams,Home Office,West,California,Los Angeles
+QE-10294,Quinn Evans,Consumer,East,Ohio,Columbus
+WE-10464,Will Evans,Consumer,East,Pennsylvania,Philadelphia
+OC-10711,Oscar Cole,Consumer,Central,Minnesota,Minneapolis
+OW-10436,Olivia Wong,Consumer,East,Florida,Jacksonville
+KB-10197,Kara Bauer,Consumer,West,Oregon,Portland
+ID-10573,Ivy Diaz,Consumer,East,New York,New York City
+CV-10024,Carlos Vance,Consumer,West,California,Los Angeles
+GN-10335,Grace Nguyen,Corporate,Central,Michigan,Detroit
+PB-10716,Priya Brown,Corporate,South,Virginia,Richmond
+WM-10686,Will Miller,Corporate,Central,Michigan,Detroit
+NV-10260,Nadia Vance,Home Office,Central,Texas,Dallas
+KC-10609,Kara Cole,Consumer,South,North Carolina,Charlotte
+TE-10418,Tara Evans,Consumer,East,New York,New York City
+GE-10256,Grace Ellis,Corporate,West,Washington,Seattle
+KG-10767,Kara Green,Corporate,Central,Illinois,Chicago
+GN-10193,Grace Nguyen,Consumer,South,Tennessee,Nashville
+OI-10746,Olivia Iyer,Consumer,Central,Illinois,Chicago
+KA-10176,Kara Adams,Consumer,Central,Michigan,Detroit
+BS-10158,Bella Singh,Consumer,South,Louisiana,New Orleans
+PE-10768,Paul Evans,Consumer,West,Washington,Seattle
+NA-10646,Noah Adams,Corporate,South,Louisiana,New Orleans
+DS-10071,Dana Singh,Home Office,East,Massachusetts,Boston
+GU-10530,Grace Usman,Consumer,South,Louisiana,New Orleans
+MB-10083,Maya Bauer,Consumer,West,California,Los Angeles
+HV-10327,Henry Vance,Corporate,East,Ohio,Columbus
+KV-10162,Kara Vance,Consumer,West,Oregon,Portland
+LL-10336,Liam Lopez,Consumer,East,Pennsylvania,Philadelphia
+TY-10313,Tara Young,Home Office,West,Washington,Seattle
+LB-10760,Liam Bauer,Consumer,South,Virginia,Richmond
+NE-10055,Nadia Evans,Consumer,South,North Carolina,Charlotte
+EB-10389,Ethan Brown,Consumer,Central,Michigan,Detroit
+IH-10606,Ivy Hughes,Consumer,West,California,San Francisco
+YE-10480,Yara Evans,Consumer,Central,Texas,Houston
+GK-10410,Grace Khan,Home Office,South,Louisiana,New Orleans
+RB-10774,Reed Brown,Consumer,Central,Minnesota,Minneapolis
+SF-10753,Sam Ford,Home Office,East,Massachusetts,Boston
+KU-10224,Kara Usman,Consumer,South,Georgia,Atlanta
+XE-10603,Xena Evans,Corporate,East,New York,New York City
+RY-10623,Ruth Young,Consumer,South,Louisiana,New Orleans
+MM-10296,Maya Miller,Consumer,East,Florida,Jacksonville
+GY-10236,Grace Young,Consumer,East,New York,New York City
+YN-10725,Yara Nguyen,Consumer,West,Oregon,Portland
+OU-10015,Olivia Usman,Corporate,Central,Texas,Houston
+RY-10235,Reed Young,Consumer,Central,Illinois,Chicago
+OZ-10244,Olivia Zhang,Home Office,West,California,San Francisco
+NA-10277,Nadia Adams,Consumer,West,Washington,Seattle
+XS-10349,Xena Singh,Consumer,South,Georgia,Atlanta
+XE-10478,Xena Evans,Corporate,West,California,Los Angeles
+UB-10091,Umar Bauer,Consumer,South,Virginia,Richmond
+HD-10315,Henry Diaz,Corporate,South,North Carolina,Charlotte
+MH-10113,Maya Hughes,Consumer,South,Georgia,Atlanta
+XK-10087,Xena Khan,Corporate,East,Massachusetts,Boston
+DH-10068,Dana Hughes,Corporate,West,Oregon,Portland
+OC-10218,Oscar Chen,Consumer,West,California,Los Angeles
+KC-10142,Kara Cole,Corporate,Central,Illinois,Chicago
+LE-10115,Liam Ellis,Home Office,West,Arizona,Phoenix
+OZ-10243,Oscar Zhang,Home Office,West,Arizona,Phoenix
+HW-10203,Henry Wong,Home Office,Central,Illinois,Chicago
+JG-10773,Jack Green,Consumer,South,Virginia,Richmond
+NV-10511,Nadia Vance,Consumer,West,Oregon,Portland
+DE-10541,Dana Evans,Corporate,West,Washington,Seattle
+XJ-10549,Xena Jones,Consumer,East,Massachusetts,Boston
+QD-10043,Quinn Diaz,Corporate,South,Georgia,Atlanta
+RC-10751,Reed Chen,Consumer,West,California,San Francisco
+EC-10219,Ethan Chen,Corporate,West,California,Los Angeles
+XD-10707,Xena Diaz,Consumer,West,Washington,Seattle
+IH-10285,Ivy Hughes,Consumer,South,Virginia,Richmond
+JA-10052,Jack Adams,Corporate,East,Massachusetts,Boston
+YB-10281,Yara Bauer,Consumer,West,Oregon,Portland
+GG-10046,Grace Green,Corporate,South,Louisiana,New Orleans
+AZ-10298,Aaron Zhang,Consumer,Central,Texas,Dallas
+XJ-10585,Xena Jones,Home Office,West,Washington,Seattle
+YG-10722,Yara Green,Corporate,South,Louisiana,New Orleans
+KO-10602,Kara Owens,Consumer,South,Tennessee,Nashville
+EU-10601,Ethan Usman,Corporate,Central,Minnesota,Minneapolis
+BA-10120,Bella Adams,Consumer,Central,Minnesota,Minneapolis
+FF-10641,Fiona Ford,Consumer,East,Pennsylvania,Philadelphia
+DA-10166,Dana Adams,Home Office,East,Massachusetts,Boston
+BT-10122,Bella Turner,Home Office,South,North Carolina,Charlotte
+JN-10114,Jack Nguyen,Corporate,East,New York,New York City
+MB-10104,Maya Bauer,Corporate,Central,Michigan,Detroit
+PS-10048,Priya Singh,Consumer,West,California,San Francisco
+HE-10769,Henry Ellis,Home Office,South,Louisiana,New Orleans
+TY-10449,Tara Young,Consumer,East,Massachusetts,Boston
+CU-10061,Carlos Usman,Consumer,Central,Texas,Houston
+YB-10694,Yara Bauer,Corporate,Central,Texas,Houston
+LE-10340,Liam Evans,Home Office,East,Ohio,Columbus
+UO-10112,Umar Owens,Consumer,East,New York,New York City
+HH-10755,Henry Hughes,Home Office,South,Virginia,Richmond
+MT-10161,Maya Turner,Corporate,Central,Minnesota,Minneapolis
+RC-10049,Reed Cole,Consumer,West,California,San Francisco
+IN-10488,Ivy Nguyen,Consumer,South,Georgia,Atlanta
+RL-10429,Ruth Lopez,Corporate,East,Florida,Jacksonville
+JG-10262,Jack Green,Consumer,West,Arizona,Phoenix
+OF-10380,Olivia Ford,Home Office,Central,Texas,Houston
+PE-10066,Priya Evans,Home Office,East,New York,New York City
+PA-10491,Priya Adams,Consumer,South,Virginia,Richmond
+WR-10423,Will Reed,Consumer,West,Washington,Seattle
+VH-10626,Vera Hughes,Corporate,East,Pennsylvania,Philadelphia
+DC-10407,Dana Chen,Consumer,East,Pennsylvania,Philadelphia
+TA-10322,Tara Adams,Home Office,Central,Michigan,Detroit
+IF-10747,Ivy Ford,Home Office,East,Florida,Jacksonville
+ZU-10670,Zack Usman,Consumer,West,Arizona,Phoenix
+FA-10332,Fiona Adams,Home Office,South,North Carolina,Charlotte
+MN-10665,Maya Nguyen,Corporate,East,Pennsylvania,Philadelphia
+BM-10640,Bella Miller,Consumer,West,Arizona,Phoenix
+OB-10535,Oscar Bauer,Corporate,South,Tennessee,Nashville
+VF-10700,Vera Ford,Corporate,Central,Michigan,Detroit
+RL-10060,Ruth Lopez,Corporate,Central,Michigan,Detroit
+ZF-10371,Zack Ford,Corporate,East,New York,New York City
+EM-10076,Ethan Miller,Consumer,West,Washington,Seattle
+ZO-10579,Zack Owens,Corporate,East,Pennsylvania,Philadelphia
+IM-10425,Ivy Miller,Consumer,South,Louisiana,New Orleans
+SI-10655,Sam Iyer,Consumer,West,Oregon,Portland
+MB-10676,Maya Brown,Corporate,West,Arizona,Phoenix
+XD-10253,Xena Diaz,Consumer,East,New York,New York City
+YH-10041,Yara Hughes,Consumer,East,Ohio,Columbus
+AG-10608,Aaron Green,Corporate,West,Oregon,Portland
+AY-10543,Aaron Young,Consumer,West,California,Los Angeles
+GZ-10667,Grace Zhang,Consumer,Central,Texas,Houston
+AL-10459,Aaron Lopez,Consumer,West,California,San Francisco
+HM-10264,Henry Miller,Home Office,West,California,Los Angeles
+RO-10304,Reed Owens,Corporate,East,Florida,Jacksonville
+PJ-10028,Priya Jones,Corporate,West,California,San Francisco
+LG-10642,Liam Green,Corporate,Central,Texas,Dallas
+FC-10391,Fiona Chen,Home Office,East,New York,New York City
+RS-10537,Ruth Singh,Consumer,East,Massachusetts,Boston
+EC-10526,Ethan Chen,Consumer,East,Ohio,Columbus
+LP-10594,Liam Patel,Corporate,West,Washington,Seattle
+AZ-10775,Aaron Zhang,Consumer,West,California,San Francisco
+HY-10160,Henry Young,Corporate,West,California,San Francisco
+NE-10618,Nadia Evans,Home Office,East,New York,New York City
+ZJ-10683,Zack Jones,Consumer,Central,Texas,Houston
+MO-10233,Maya Owens,Corporate,South,Georgia,Atlanta
+FE-10077,Fiona Evans,Consumer,West,California,Los Angeles
+AT-10576,Aaron Turner,Consumer,West,Washington,Seattle
+TK-10628,Tara Khan,Home Office,West,California,Los Angeles
+UD-10044,Umar Diaz,Corporate,West,Oregon,Portland
+KO-10106,Kara Owens,Consumer,West,Oregon,Portland
+DK-10268,Dana Khan,Home Office,South,Virginia,Richmond
+EL-10088,Ethan Lopez,Consumer,West,California,Los Angeles
+MY-10473,Maya Young,Consumer,West,Arizona,Phoenix
+WY-10397,Will Young,Consumer,South,Louisiana,New Orleans
+TD-10614,Tara Diaz,Corporate,West,California,San Francisco
+OW-10361,Oscar Wong,Consumer,East,Pennsylvania,Philadelphia
+IR-10659,Ivy Reed,Home Office,East,Pennsylvania,Philadelphia
+KM-10007,Kara Miller,Consumer,West,Arizona,Phoenix
+HL-10680,Henry Lopez,Consumer,South,Georgia,Atlanta
+AL-10317,Aaron Lopez,Corporate,West,Arizona,Phoenix
+RC-10749,Ruth Cole,Corporate,West,Arizona,Phoenix
+RP-10453,Reed Patel,Consumer,East,Florida,Jacksonville
+VW-10463,Vera Wong,Consumer,East,New York,New York City
+OO-10362,Olivia Owens,Home Office,South,North Carolina,Charlotte
+XI-10404,Xena Iyer,Corporate,West,Arizona,Phoenix
+IF-10780,Ivy Ford,Consumer,West,Oregon,Portland
+JF-10533,Jack Ford,Corporate,South,Virginia,Richmond
+ME-10509,Maya Evans,Consumer,West,California,Los Angeles
+TU-10466,Tara Usman,Home Office,South,Tennessee,Nashville
+OL-10598,Oscar Lopez,Consumer,West,California,Los Angeles
+OI-10198,Oscar Iyer,Corporate,East,Ohio,Columbus
+QR-10492,Quinn Reed,Consumer,Central,Texas,Dallas
+IE-10791,Ivy Evans,Corporate,South,Virginia,Richmond
+RP-10130,Reed Patel,Corporate,West,California,San Francisco
+AR-10168,Aaron Reed,Consumer,West,California,San Francisco
+RK-10776,Reed Khan,Corporate,East,Massachusetts,Boston
+FZ-10427,Fiona Zhang,Corporate,Central,Michigan,Detroit
+YP-10772,Yara Patel,Consumer,East,Florida,Jacksonville
+KY-10726,Kara Young,Corporate,East,Massachusetts,Boston
+ET-10036,Ethan Turner,Corporate,East,Florida,Jacksonville
+QL-10465,Quinn Lopez,Consumer,West,California,San Francisco
+PM-10743,Paul Miller,Corporate,Central,Minnesota,Minneapolis
+PT-10732,Paul Turner,Consumer,Central,Texas,Dallas
+BT-10693,Bella Turner,Corporate,West,Arizona,Phoenix
+NH-10617,Noah Hughes,Consumer,East,Massachusetts,Boston
+KW-10308,Kara Wong,Home Office,Central,Minnesota,Minneapolis
+WB-10704,Will Bauer,Corporate,West,California,Los Angeles
+RD-10059,Reed Diaz,Consumer,Central,Texas,Dallas
+GO-10179,Grace Owens,Corporate,West,Washington,Seattle
+IZ-10221,Ivy Zhang,Corporate,West,Washington,Seattle
+TH-10471,Tara Hughes,Consumer,Central,Michigan,Detroit
+LL-10251,Liam Lopez,Corporate,East,Pennsylvania,Philadelphia
+OB-10252,Olivia Brown,Consumer,South,Tennessee,Nashville
+PA-10557,Paul Adams,Corporate,South,Georgia,Atlanta
+VC-10797,Vera Chen,Corporate,South,Louisiana,New Orleans
+WE-10540,Will Ellis,Consumer,West,California,Los Angeles
+KL-10538,Kara Lopez,Consumer,Central,Minnesota,Minneapolis
+BR-10714,Bella Reed,Home Office,East,New York,New York City
+YS-10547,Yara Singh,Corporate,West,Washington,Seattle
+ZC-10786,Zack Chen,Home Office,Central,Illinois,Chicago
+PG-10258,Priya Green,Consumer,East,New York,New York City
+JL-10132,Jack Lopez,Corporate,South,Tennessee,Nashville
+IB-10037,Ivy Bauer,Corporate,West,California,Los Angeles
+OU-10562,Olivia Usman,Consumer,South,Tennessee,Nashville
+QC-10174,Quinn Cole,Home Office,East,Florida,Jacksonville
+OZ-10489,Olivia Zhang,Consumer,South,Virginia,Richmond
+YK-10363,Yara Khan,Corporate,East,Massachusetts,Boston
+YI-10666,Yara Iyer,Consumer,East,Pennsylvania,Philadelphia
+DT-10010,Dana Turner,Consumer,West,Washington,Seattle
+PE-10127,Paul Ellis,Corporate,Central,Texas,Houston
+XE-10784,Xena Evans,Consumer,East,Massachusetts,Boston
+ZC-10736,Zack Cole,Home Office,Central,Minnesota,Minneapolis
+OG-10084,Oscar Green,Corporate,South,Louisiana,New Orleans
+WB-10126,Will Brown,Consumer,West,Arizona,Phoenix
+YY-10280,Yara Young,Consumer,South,Georgia,Atlanta
+OB-10508,Olivia Brown,Corporate,East,New York,New York City
+EA-10211,Ethan Adams,Consumer,East,Pennsylvania,Philadelphia
+OC-10712,Oscar Cole,Corporate,West,Arizona,Phoenix
+PU-10507,Priya Usman,Consumer,East,Ohio,Columbus
+IB-10291,Ivy Bauer,Corporate,East,Ohio,Columbus
+NU-10030,Noah Usman,Consumer,Central,Michigan,Detroit
+JE-10329,Jack Evans,Corporate,West,California,Los Angeles
+QD-10191,Quinn Diaz,Corporate,East,Ohio,Columbus
+VL-10645,Vera Lopez,Corporate,West,Arizona,Phoenix
+XB-10241,Xena Bauer,Consumer,West,Washington,Seattle
+OC-10520,Olivia Cole,Corporate,South,Louisiana,New Orleans
+PJ-10532,Paul Jones,Home Office,South,Georgia,Atlanta
+GD-10124,Grace Diaz,Consumer,West,Washington,Seattle
+WG-10310,Will Green,Consumer,Central,Minnesota,Minneapolis
+QK-10305,Quinn Khan,Home Office,West,California,San Francisco
+RH-10038,Ruth Hughes,Home Office,East,Florida,Jacksonville
+PO-10701,Priya Owens,Corporate,Central,Michigan,Detroit
+SY-10403,Sam Young,Home Office,South,Virginia,Richmond
+DC-10323,Dana Chen,Corporate,East,Ohio,Columbus
+QN-10793,Quinn Nguyen,Consumer,Central,Michigan,Detroit
+YF-10119,Yara Ford,Home Office,Central,Texas,Dallas
+CW-10581,Carlos Wong,Home Office,West,California,San Francisco
+GE-10405,Grace Ellis,Corporate,South,Tennessee,Nashville
+NC-10133,Noah Cole,Consumer,Central,Illinois,Chicago
+JT-10297,Jack Turner,Corporate,West,Washington,Seattle
+OB-10611,Olivia Bauer,Consumer,South,Virginia,Richmond
+PY-10539,Paul Young,Consumer,West,California,San Francisco
+TV-10426,Tara Vance,Consumer,South,Virginia,Richmond
+GO-10476,Grace Owens,Home Office,South,Georgia,Atlanta
+MC-10266,Maya Chen,Corporate,East,Ohio,Columbus
+NL-10000,Noah Lopez,Corporate,Central,Michigan,Detroit
+YB-10326,Yara Bauer,Consumer,Central,Michigan,Detroit
+OJ-10522,Oscar Jones,Consumer,East,Massachusetts,Boston
+ON-10064,Oscar Nguyen,Corporate,West,Arizona,Phoenix
+JA-10610,Jack Adams,Corporate,East,Ohio,Columbus
+NB-10671,Nadia Brown,Home Office,West,Arizona,Phoenix
+VH-10172,Vera Hughes,Corporate,South,Tennessee,Nashville
+TW-10428,Tara Wong,Home Office,East,Massachusetts,Boston
+SS-10199,Sam Singh,Consumer,East,Massachusetts,Boston
+PN-10383,Paul Nguyen,Corporate,Central,Texas,Dallas
+GM-10390,Grace Miller,Consumer,East,Ohio,Columbus
+XA-10756,Xena Adams,Home Office,Central,Minnesota,Minneapolis
+PD-10337,Priya Diaz,Consumer,Central,Texas,Dallas
+RK-10368,Ruth Khan,Corporate,East,Ohio,Columbus
+GA-10500,Grace Adams,Corporate,Central,Texas,Dallas
+GE-10210,Grace Ellis,Consumer,Central,Illinois,Chicago
+XG-10483,Xena Green,Corporate,South,North Carolina,Charlotte
+EF-10074,Ethan Ford,Consumer,East,Pennsylvania,Philadelphia
+PL-10081,Priya Lopez,Consumer,East,Pennsylvania,Philadelphia
+UZ-10247,Umar Zhang,Corporate,South,Tennessee,Nashville
+LO-10334,Liam Owens,Consumer,West,Washington,Seattle
+PC-10196,Priya Cole,Corporate,East,Ohio,Columbus
+NE-10306,Noah Evans,Home Office,Central,Texas,Dallas
+SC-10267,Sam Cole,Consumer,West,Oregon,Portland
+ZE-10354,Zack Evans,Consumer,West,Oregon,Portland
+BZ-10479,Bella Zhang,Corporate,East,Ohio,Columbus
+LY-10343,Liam Young,Corporate,East,Florida,Jacksonville
+VV-10647,Vera Vance,Consumer,West,California,Los Angeles
+OZ-10787,Oscar Zhang,Corporate,Central,Texas,Houston
+SM-10109,Sam Miller,Consumer,Central,Illinois,Chicago
+XG-10144,Xena Green,Home Office,East,Pennsylvania,Philadelphia
+GM-10377,Grace Miller,Consumer,East,Florida,Jacksonville
+CP-10139,Carlos Patel,Corporate,West,Washington,Seattle
+CE-10692,Carlos Evans,Corporate,Central,Minnesota,Minneapolis
+NR-10648,Nadia Reed,Corporate,Central,Minnesota,Minneapolis
+ZD-10339,Zack Diaz,Corporate,South,Louisiana,New Orleans
+XW-10710,Xena Wong,Consumer,East,Ohio,Columbus
+WE-10528,Will Evans,Home Office,East,Pennsylvania,Philadelphia
+GF-10593,Grace Ford,Consumer,South,North Carolina,Charlotte
+XS-10003,Xena Singh,Home Office,South,Tennessee,Nashville
+NP-10399,Nadia Patel,Consumer,South,Georgia,Atlanta
+NS-10111,Nadia Singh,Consumer,South,Louisiana,New Orleans
+WC-10577,Will Chen,Consumer,Central,Michigan,Detroit
+PW-10208,Paul Wong,Consumer,East,Pennsylvania,Philadelphia
+TF-10713,Tara Ford,Corporate,East,Ohio,Columbus
+ZF-10137,Zack Ford,Corporate,East,Florida,Jacksonville
+VJ-10706,Vera Jones,Consumer,South,Georgia,Atlanta
+OJ-10546,Oscar Jones,Consumer,West,Washington,Seattle
+RJ-10607,Reed Jones,Consumer,East,New York,New York City
+UL-10575,Umar Lopez,Corporate,East,Pennsylvania,Philadelphia
+ES-10117,Ethan Singh,Consumer,Central,Texas,Houston
+NC-10053,Nadia Chen,Corporate,East,Florida,Jacksonville
+NE-10050,Noah Ellis,Home Office,West,California,San Francisco
+EK-10779,Ethan Khan,Home Office,West,Oregon,Portland
+AB-10627,Aaron Brown,Consumer,Central,Texas,Houston
+KB-10282,Kara Brown,Corporate,West,Arizona,Phoenix
+JN-10163,Jack Nguyen,Corporate,South,Tennessee,Nashville
+JO-10396,Jack Owens,Consumer,Central,Illinois,Chicago
+PJ-10639,Priya Jones,Corporate,East,Ohio,Columbus
+US-10512,Umar Singh,Consumer,West,Washington,Seattle
+SJ-10027,Sam Jones,Consumer,Central,Texas,Dallas
+WR-10263,Will Reed,Corporate,South,Tennessee,Nashville
+XR-10460,Xena Reed,Consumer,West,Oregon,Portland
+NI-10578,Noah Iyer,Corporate,West,California,San Francisco
+EH-10175,Ethan Hughes,Corporate,South,Virginia,Richmond
+EE-10587,Ethan Ellis,Consumer,East,Ohio,Columbus
+EA-10472,Ethan Adams,Consumer,West,California,San Francisco
+TP-10018,Tara Patel,Corporate,Central,Illinois,Chicago
+EH-10661,Ethan Hughes,Consumer,East,Pennsylvania,Philadelphia
+KO-10141,Kara Owens,Consumer,Central,Michigan,Detroit
+WZ-10079,Will Zhang,Home Office,East,Pennsylvania,Philadelphia
+IJ-10705,Ivy Jones,Consumer,East,Ohio,Columbus
+YZ-10414,Yara Zhang,Home Office,West,Washington,Seattle
+WC-10682,Will Chen,Corporate,West,California,San Francisco
+PT-10595,Paul Turner,Consumer,West,California,San Francisco
+QO-10093,Quinn Owens,Corporate,Central,Minnesota,Minneapolis
+AR-10738,Aaron Reed,Consumer,West,California,San Francisco
+XT-10151,Xena Turner,Corporate,West,Arizona,Phoenix
+VY-10110,Vera Young,Consumer,South,Georgia,Atlanta
+NT-10544,Noah Turner,Consumer,Central,Texas,Dallas
+PL-10011,Priya Lopez,Home Office,Central,Illinois,Chicago
+SP-10621,Sam Patel,Consumer,East,Massachusetts,Boston
+PY-10505,Paul Young,Corporate,West,Arizona,Phoenix
+OR-10604,Oscar Reed,Consumer,West,California,Los Angeles
+EL-10239,Ethan Lopez,Consumer,South,Tennessee,Nashville
+WG-10303,Will Green,Corporate,Central,Michigan,Detroit
+YM-10518,Yara Miller,Corporate,West,Arizona,Phoenix
+VC-10468,Vera Chen,Consumer,West,Arizona,Phoenix
+PL-10164,Paul Lopez,Corporate,South,North Carolina,Charlotte
+SR-10553,Sam Reed,Consumer,East,Florida,Jacksonville
+EC-10766,Ethan Chen,Consumer,South,North Carolina,Charlotte
+EM-10568,Ethan Miller,Corporate,South,Tennessee,Nashville
+MM-10067,Maya Miller,Corporate,Central,Illinois,Chicago
+AG-10730,Aaron Green,Consumer,Central,Minnesota,Minneapolis
+UW-10078,Umar Wong,Consumer,East,Massachusetts,Boston
+TD-10155,Tara Diaz,Consumer,South,Tennessee,Nashville
+DU-10563,Dana Usman,Consumer,South,Tennessee,Nashville
+MW-10366,Maya Wong,Home Office,East,Massachusetts,Boston
+ON-10216,Oscar Nguyen,Consumer,East,Pennsylvania,Philadelphia
+PO-10387,Priya Owens,Consumer,West,California,San Francisco
+UG-10186,Umar Green,Home Office,South,Virginia,Richmond
+NE-10721,Noah Evans,Home Office,South,North Carolina,Charlotte
+IY-10702,Ivy Young,Home Office,West,California,Los Angeles
+XZ-10187,Xena Zhang,Consumer,East,Pennsylvania,Philadelphia
+HC-10458,Henry Cole,Home Office,Central,Illinois,Chicago
+IN-10570,Ivy Nguyen,Home Office,Central,Texas,Houston
+JE-10200,Jack Evans,Home Office,West,California,San Francisco
+UC-10189,Umar Chen,Consumer,West,California,San Francisco
+LD-10437,Liam Diaz,Corporate,West,California,Los Angeles
+GM-10739,Grace Miller,Consumer,West,Washington,Seattle
+IS-10005,Ivy Singh,Corporate,South,Tennessee,Nashville
+NE-10026,Noah Evans,Consumer,Central,Illinois,Chicago
+JE-10409,Jack Evans,Consumer,West,Arizona,Phoenix
+NP-10382,Nadia Patel,Consumer,East,Ohio,Columbus
+VH-10715,Vera Hughes,Consumer,South,Virginia,Richmond
+KC-10261,Kara Cole,Consumer,South,Louisiana,New Orleans
+HT-10622,Henry Turner,Corporate,South,Louisiana,New Orleans
+LC-10374,Liam Chen,Corporate,South,Louisiana,New Orleans
+LO-10735,Liam Owens,Corporate,South,Tennessee,Nashville
+QV-10672,Quinn Vance,Corporate,West,Washington,Seattle
+PC-10073,Priya Chen,Consumer,Central,Texas,Dallas
+CB-10504,Carlos Brown,Consumer,West,California,San Francisco
+CA-10331,Carlos Adams,Corporate,Central,Texas,Houston
+RD-10679,Ruth Diaz,Corporate,Central,Texas,Houston
+RY-10649,Ruth Young,Home Office,Central,Michigan,Detroit
+YR-10615,Yara Reed,Home Office,Central,Texas,Houston
+OR-10662,Olivia Reed,Consumer,Central,Minnesota,Minneapolis
+GO-10496,Grace Owens,Corporate,South,North Carolina,Charlotte
+HG-10259,Henry Green,Consumer,West,Oregon,Portland
+OO-10688,Oscar Owens,Home Office,East,Massachusetts,Boston
+EM-10744,Ethan Miller,Consumer,West,California,Los Angeles
+DB-10521,Dana Brown,Consumer,Central,Illinois,Chicago
+DM-10031,Dana Miller,Consumer,South,North Carolina,Charlotte
+AJ-10376,Aaron Jones,Home Office,East,New York,New York City
+NZ-10202,Noah Zhang,Home Office,Central,Michigan,Detroit
+PD-10764,Paul Diaz,Corporate,East,Pennsylvania,Philadelphia
+FE-10217,Fiona Evans,Consumer,Central,Texas,Houston
+WB-10105,Will Bauer,Corporate,East,Florida,Jacksonville
+DD-10385,Dana Diaz,Corporate,East,Massachusetts,Boston
+IF-10470,Ivy Ford,Home Office,East,Pennsylvania,Philadelphia
+VI-10228,Vera Iyer,Consumer,Central,Minnesota,Minneapolis
+RM-10006,Reed Miller,Corporate,East,New York,New York City
+HK-10620,Henry Khan,Consumer,East,Massachusetts,Boston
+RE-10654,Reed Evans,Corporate,West,California,Los Angeles
+BJ-10745,Bella Jones,Home Office,Central,Michigan,Detroit
+NH-10013,Nadia Hughes,Corporate,East,Ohio,Columbus
+MS-10560,Maya Singh,Consumer,Central,Illinois,Chicago
+IO-10728,Ivy Owens,Consumer,West,Arizona,Phoenix
+DO-10417,Dana Owens,Consumer,Central,Minnesota,Minneapolis
+WK-10638,Will Khan,Consumer,South,Louisiana,New Orleans
+RK-10232,Ruth Khan,Home Office,South,Tennessee,Nashville
+VD-10270,Vera Diaz,Home Office,West,Arizona,Phoenix
+SC-10289,Sam Cole,Consumer,East,Florida,Jacksonville
+OG-10558,Oscar Green,Corporate,South,Georgia,Atlanta
+OV-10632,Olivia Vance,Consumer,South,North Carolina,Charlotte
+IF-10503,Ivy Ford,Consumer,West,Arizona,Phoenix
+OO-10719,Oscar Owens,Consumer,West,Arizona,Phoenix
+PJ-10355,Paul Jones,Consumer,West,California,San Francisco
+YO-10770,Yara Owens,Consumer,West,Arizona,Phoenix
+OE-10157,Oscar Evans,Consumer,East,Florida,Jacksonville
+ST-10752,Sam Turner,Consumer,South,Tennessee,Nashville
+JC-10534,Jack Cole,Home Office,South,North Carolina,Charlotte
+IL-10345,Ivy Lopez,Corporate,West,Oregon,Portland
+NR-10416,Noah Reed,Consumer,West,Washington,Seattle
+HH-10319,Henry Hughes,Home Office,Central,Texas,Houston
+XD-10457,Xena Diaz,Corporate,South,Louisiana,New Orleans
+DR-10225,Dana Reed,Consumer,Central,Minnesota,Minneapolis
+AE-10058,Aaron Evans,Consumer,West,Arizona,Phoenix
+DW-10794,Dana Wong,Corporate,West,Washington,Seattle
+BC-10206,Bella Cole,Consumer,East,New York,New York City
+OT-10695,Oscar Turner,Home Office,East,Florida,Jacksonville
+EI-10347,Ethan Iyer,Corporate,East,Pennsylvania,Philadelphia
+NH-10328,Nadia Hughes,Home Office,East,Pennsylvania,Philadelphia
+RE-10684,Reed Ellis,Consumer,East,New York,New York City
+CP-10524,Carlos Patel,Consumer,West,California,Los Angeles
+RI-10664,Reed Iyer,Consumer,West,California,San Francisco
+HH-10513,Henry Hughes,Corporate,East,Ohio,Columbus
+SG-10582,Sam Green,Consumer,West,Arizona,Phoenix
+NC-10658,Noah Chen,Corporate,East,Ohio,Columbus
+FO-10237,Fiona Owens,Consumer,Central,Minnesota,Minneapolis
+VZ-10591,Vera Zhang,Consumer,East,Ohio,Columbus
+NC-10586,Noah Chen,Consumer,West,California,Los Angeles
+SB-10375,Sam Brown,Corporate,West,Arizona,Phoenix
+BE-10400,Bella Evans,Consumer,East,Ohio,Columbus
+XD-10103,Xena Diaz,Consumer,West,Washington,Seattle
+DB-10451,Dana Bauer,Consumer,South,Louisiana,New Orleans
+OC-10395,Olivia Cole,Consumer,South,Georgia,Atlanta
+PZ-10494,Priya Zhang,Corporate,East,Massachusetts,Boston
+SS-10085,Sam Singh,Corporate,Central,Minnesota,Minneapolis
+XE-10098,Xena Ellis,Home Office,East,Massachusetts,Boston
+WC-10729,Will Cole,Consumer,Central,Illinois,Chicago
+QO-10333,Quinn Owens,Corporate,South,Georgia,Atlanta
+PS-10195,Priya Singh,Consumer,East,Pennsylvania,Philadelphia
+GU-10564,Grace Usman,Home Office,West,California,San Francisco
+CF-10565,Carlos Ford,Home Office,Central,Illinois,Chicago
+JC-10703,Jack Chen,Corporate,Central,Illinois,Chicago
+KG-10490,Kara Green,Corporate,Central,Texas,Dallas
+NF-10341,Noah Ford,Consumer,South,Louisiana,New Orleans
+PV-10580,Paul Vance,Consumer,West,Oregon,Portland
+XU-10419,Xena Usman,Consumer,West,Oregon,Portland
+JZ-10378,Jack Zhang,Consumer,Central,Minnesota,Minneapolis
+JF-10795,Jack Ford,Corporate,East,New York,New York City
+PP-10687,Paul Patel,Consumer,West,Arizona,Phoenix
+CL-10438,Carlos Lopez,Corporate,Central,Texas,Houston
+QB-10635,Quinn Bauer,Consumer,West,Washington,Seattle
+ER-10229,Ethan Reed,Consumer,South,Virginia,Richmond
+KN-10550,Kara Nguyen,Consumer,West,California,Los Angeles
+GP-10554,Grace Patel,Consumer,West,Arizona,Phoenix
+OD-10095,Oscar Diaz,Corporate,South,North Carolina,Charlotte
+AB-10314,Aaron Brown,Corporate,West,California,San Francisco
+OE-10153,Olivia Evans,Consumer,East,New York,New York City
+RE-10724,Ruth Evans,Consumer,South,Louisiana,New Orleans
+HE-10690,Henry Ellis,Consumer,West,California,San Francisco
+VP-10099,Vera Patel,Consumer,West,Oregon,Portland
+DL-10286,Dana Lopez,Corporate,East,Florida,Jacksonville
+AS-10734,Aaron Singh,Corporate,South,North Carolina,Charlotte
+UB-10008,Umar Bauer,Home Office,West,Oregon,Portland
+CY-10559,Carlos Young,Corporate,West,Arizona,Phoenix
+FE-10204,Fiona Evans,Consumer,Central,Illinois,Chicago
+DT-10373,Dana Turner,Consumer,East,Ohio,Columbus
+YC-10674,Yara Cole,Consumer,West,Washington,Seattle
+ZT-10771,Zack Turner,Corporate,South,Georgia,Atlanta
+DZ-10597,Dana Zhang,Corporate,East,Florida,Jacksonville
+EA-10272,Ethan Adams,Home Office,West,California,San Francisco
+IV-10681,Ivy Vance,Home Office,West,California,Los Angeles
+LD-10188,Liam Diaz,Home Office,East,Massachusetts,Boston
+BO-10574,Bella Owens,Consumer,Central,Texas,Houston
+JV-10657,Jack Vance,Consumer,South,Georgia,Atlanta
+PE-10590,Paul Ellis,Consumer,South,Virginia,Richmond
+TK-10467,Tara Khan,Home Office,East,Florida,Jacksonville
+NB-10516,Noah Brown,Consumer,West,Oregon,Portland
+IY-10737,Ivy Young,Consumer,West,California,Los Angeles
+LT-10325,Liam Turner,Consumer,West,Washington,Seattle
+QS-10125,Quinn Singh,Home Office,Central,Texas,Houston
+WD-10691,Will Diaz,Consumer,South,Tennessee,Nashville
+PS-10063,Paul Singh,Home Office,East,Pennsylvania,Philadelphia
+SE-10514,Sam Evans,Consumer,Central,Illinois,Chicago
+ZC-10798,Zack Chen,Corporate,South,Louisiana,New Orleans
+OY-10350,Olivia Young,Home Office,South,Georgia,Atlanta
+RG-10481,Reed Green,Consumer,West,Oregon,Portland
+XZ-10381,Xena Zhang,Consumer,South,Tennessee,Nashville
+YG-10180,Yara Green,Consumer,South,Tennessee,Nashville
+ER-10388,Ethan Reed,Consumer,Central,Illinois,Chicago
+GW-10356,Grace Wong,Home Office,Central,Illinois,Chicago
+FI-10527,Fiona Iyer,Corporate,Central,Minnesota,Minneapolis
+LJ-10165,Liam Jones,Consumer,South,Louisiana,New Orleans
+CR-10477,Carlos Reed,Corporate,West,California,Los Angeles
+WN-10430,Will Nguyen,Consumer,East,New York,New York City
+ZF-10461,Zack Ford,Consumer,South,Virginia,Richmond
+HH-10072,Henry Hughes,Corporate,East,Massachusetts,Boston
+FW-10014,Fiona Wong,Corporate,West,Arizona,Phoenix
+NB-10758,Noah Bauer,Consumer,Central,Texas,Houston
+OU-10033,Olivia Usman,Consumer,Central,Texas,Houston
+DU-10320,Dana Usman,Consumer,Central,Illinois,Chicago
+XG-10497,Xena Green,Consumer,West,Washington,Seattle
+YF-10552,Yara Ford,Consumer,Central,Illinois,Chicago
+QM-10223,Quinn Miller,Corporate,South,Louisiana,New Orleans
+CC-10107,Carlos Cole,Consumer,West,California,San Francisco
+PD-10644,Paul Diaz,Corporate,South,North Carolina,Charlotte
+VE-10108,Vera Evans,Home Office,East,New York,New York City
+PO-10321,Paul Owens,Consumer,East,Ohio,Columbus
+PH-10135,Priya Hughes,Consumer,West,Washington,Seattle
+OB-10075,Oscar Bauer,Consumer,West,Arizona,Phoenix
+BJ-10348,Bella Jones,Consumer,Central,Minnesota,Minneapolis
+KK-10441,Kara Khan,Consumer,East,Pennsylvania,Philadelphia
+KB-10678,Kara Brown,Home Office,West,Arizona,Phoenix
+JB-10278,Jack Bauer,Consumer,South,Georgia,Atlanta
+GI-10718,Grace Iyer,Consumer,West,Oregon,Portland
+LC-10181,Liam Chen,Corporate,West,California,Los Angeles
+ZO-10307,Zack Owens,Consumer,East,Ohio,Columbus
+HF-10629,Henry Ford,Consumer,South,Georgia,Atlanta
+FO-10689,Fiona Owens,Consumer,East,Florida,Jacksonville
+JE-10057,Jack Ellis,Consumer,Central,Texas,Houston
+NB-10056,Nadia Brown,Consumer,East,Florida,Jacksonville
+BY-10455,Bella Young,Corporate,East,New York,New York City
+II-10434,Ivy Iyer,Home Office,West,California,San Francisco
+PE-10001,Paul Ellis,Corporate,West,Arizona,Phoenix
+PP-10742,Priya Patel,Consumer,East,Ohio,Columbus
+FV-10454,Fiona Vance,Home Office,West,California,San Francisco
+CI-10668,Carlos Iyer,Consumer,East,Florida,Jacksonville
+CC-10433,Carlos Cole,Consumer,West,Arizona,Phoenix
+VJ-10293,Vera Jones,Corporate,South,Virginia,Richmond
+GC-10487,Grace Chen,Consumer,South,Virginia,Richmond
+WE-10029,Will Ellis,Corporate,West,Arizona,Phoenix
+TJ-10152,Tara Jones,Consumer,East,Ohio,Columbus
+PV-10045,Priya Vance,Consumer,Central,Texas,Dallas
+ST-10515,Sam Turner,Corporate,Central,Michigan,Detroit
+CK-10660,Carlos Khan,Consumer,South,Louisiana,New Orleans
+QT-10799,Quinn Turner,Corporate,East,Massachusetts,Boston
+IK-10763,Ivy Khan,Consumer,East,Massachusetts,Boston
+FC-10275,Fiona Cole,Consumer,West,Washington,Seattle
+NI-10288,Noah Iyer,Corporate,Central,Michigan,Detroit
+XB-10035,Xena Brown,Consumer,East,Florida,Jacksonville
+JC-10510,Jack Cole,Home Office,South,Virginia,Richmond
+ZB-10116,Zack Brown,Home Office,West,Oregon,Portland
+JC-10205,Jack Cole,Consumer,Central,Illinois,Chicago
+OW-10039,Olivia Wong,Consumer,East,New York,New York City
+PC-10150,Priya Chen,Corporate,East,Massachusetts,Boston
+ZL-10184,Zack Lopez,Consumer,Central,Texas,Dallas
+PV-10292,Paul Vance,Consumer,South,Tennessee,Nashville
+ZC-10398,Zack Cole,Corporate,West,California,Los Angeles
+VC-10561,Vera Chen,Corporate,Central,Illinois,Chicago
+KJ-10089,Kara Jones,Consumer,West,Washington,Seattle
+IY-10452,Ivy Young,Home Office,East,Florida,Jacksonville
+PC-10054,Priya Cole,Consumer,West,California,Los Angeles
+QS-10551,Quinn Singh,Corporate,East,Florida,Jacksonville
+PM-10523,Paul Miller,Consumer,South,Tennessee,Nashville
+MB-10134,Maya Bauer,Consumer,East,Florida,Jacksonville
+VC-10733,Vera Chen,Corporate,West,Oregon,Portland
+VN-10630,Vera Nguyen,Consumer,East,Pennsylvania,Philadelphia
+PW-10484,Paul Wong,Corporate,Central,Texas,Dallas
+DY-10439,Dana Young,Consumer,Central,Illinois,Chicago
+RS-10318,Reed Singh,Consumer,South,North Carolina,Charlotte
+JF-10364,Jack Ford,Consumer,West,Oregon,Portland
+RI-10789,Ruth Iyer,Consumer,West,Oregon,Portland
+FG-10624,Fiona Green,Corporate,East,Massachusetts,Boston
+DF-10469,Dana Ford,Consumer,East,Florida,Jacksonville
+RP-10159,Reed Patel,Consumer,East,Pennsylvania,Philadelphia
+RA-10785,Reed Adams,Consumer,East,Pennsylvania,Philadelphia
+VB-10741,Vera Bauer,Consumer,West,Oregon,Portland
+HJ-10440,Henry Jones,Consumer,South,North Carolina,Charlotte
+SH-10070,Sam Hughes,Consumer,South,Virginia,Richmond
+QP-10796,Quinn Patel,Consumer,Central,Michigan,Detroit
+RW-10121,Reed Wong,Consumer,Central,Texas,Houston
+FL-10757,Fiona Lopez,Corporate,South,Virginia,Richmond
+EY-10555,Ethan Young,Home Office,West,Washington,Seattle
+RZ-10482,Ruth Zhang,Corporate,East,Massachusetts,Boston
+BB-10656,Bella Bauer,Corporate,Central,Michigan,Detroit
+IG-10342,Ivy Green,Corporate,Central,Minnesota,Minneapolis
+HA-10231,Henry Adams,Consumer,South,Georgia,Atlanta
+BA-10542,Bella Adams,Corporate,West,Oregon,Portland
+RC-10633,Ruth Cole,Home Office,West,Arizona,Phoenix
+RM-10781,Ruth Miller,Consumer,West,Washington,Seattle
+KD-10431,Kara Diaz,Consumer,Central,Illinois,Chicago
+OL-10651,Olivia Lopez,Consumer,Central,Texas,Dallas
+BJ-10765,Bella Jones,Corporate,Central,Illinois,Chicago
+PZ-10299,Priya Zhang,Consumer,Central,Texas,Dallas
+DZ-10300,Dana Zhang,Consumer,Central,Texas,Houston
+VP-10096,Vera Patel,Home Office,West,Oregon,Portland
+XJ-10240,Xena Jones,Consumer,West,California,Los Angeles
+VY-10754,Vera Young,Corporate,West,Oregon,Portland
+FY-10420,Fiona Young,Consumer,South,Virginia,Richmond
+RS-10637,Ruth Singh,Consumer,East,New York,New York City
+QY-10274,Quinn Young,Consumer,East,Pennsylvania,Philadelphia
+JN-10273,Jack Nguyen,Consumer,Central,Minnesota,Minneapolis
+JL-10295,Jack Lopez,Corporate,South,Virginia,Richmond
+ZB-10051,Zack Bauer,Home Office,Central,Minnesota,Minneapolis
+ZT-10215,Zack Turner,Consumer,East,Pennsylvania,Philadelphia
+IE-10616,Ivy Ellis,Consumer,West,Oregon,Portland
+TP-10140,Tara Patel,Consumer,Central,Illinois,Chicago
+ER-10169,Ethan Reed,Consumer,West,Arizona,Phoenix
+QO-10302,Quinn Owens,Home Office,West,Arizona,Phoenix
+VU-10192,Vera Usman,Consumer,South,Louisiana,New Orleans
+YU-10148,Yara Usman,Consumer,West,Washington,Seattle
+DI-10600,Dana Iyer,Home Office,Central,Texas,Dallas
+BH-10379,Bella Hughes,Consumer,East,Ohio,Columbus
+JY-10226,Jack Young,Consumer,East,Florida,Jacksonville
+CI-10370,Carlos Iyer,Corporate,East,Massachusetts,Boston
+UG-10311,Umar Green,Corporate,East,Florida,Jacksonville
+BR-10424,Bella Reed,Consumer,Central,Michigan,Detroit
+AC-10212,Aaron Chen,Consumer,South,Georgia,Atlanta
+LR-10250,Liam Reed,Corporate,South,Virginia,Richmond
+TK-10209,Tara Khan,Consumer,West,California,San Francisco
+VK-10367,Vera Khan,Consumer,South,Virginia,Richmond
+BU-10588,Bella Usman,Consumer,West,California,San Francisco
+PT-10723,Paul Turner,Consumer,Central,Michigan,Detroit
+PU-10265,Paul Usman,Consumer,East,New York,New York City
+OW-10777,Oscar Wong,Consumer,East,New York,New York City
+PZ-10548,Priya Zhang,Consumer,East,Ohio,Columbus
+SB-10545,Sam Bauer,Consumer,Central,Illinois,Chicago
+VE-10631,Vera Ellis,Consumer,West,Washington,Seattle
+YR-10731,Yara Reed,Corporate,West,California,San Francisco
+FB-10338,Fiona Brown,Consumer,West,California,Los Angeles
+LE-10167,Liam Evans,Consumer,Central,Texas,Dallas
+UO-10359,Umar Owens,Home Office,Central,Minnesota,Minneapolis
+BF-10792,Bella Ford,Consumer,South,Georgia,Atlanta
+OY-10698,Olivia Young,Consumer,East,Pennsylvania,Philadelphia
+ZW-10566,Zack Wong,Corporate,East,New York,New York City
+PZ-10495,Paul Zhang,Corporate,West,California,Los Angeles
+LO-10685,Liam Owens,Corporate,West,California,San Francisco
+OT-10502,Oscar Turner,Consumer,South,Georgia,Atlanta
+RG-10220,Ruth Green,Home Office,West,California,Los Angeles
+OV-10255,Olivia Vance,Home Office,West,Arizona,Phoenix
+NZ-10406,Noah Zhang,Consumer,East,Massachusetts,Boston
+QN-10519,Quinn Nguyen,Corporate,East,Massachusetts,Boston

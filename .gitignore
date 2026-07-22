@@ -1,0 +1,11 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+~$*
+# temp
+*.tmp
+*.tmp.xlsx
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
