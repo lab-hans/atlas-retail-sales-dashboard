@@ -28,7 +28,7 @@
 
 ## 3 insights I found
 1. **Technology carries the company** — $1.26M profit, more than Office Supplies and Furniture *combined*.
-2. **Furniture is a volume trap** — 2nd-highest sales ($6.6M) but the *lowest* profit ($386k): a **5.8% margin** vs 15–19% elsewhere. The 10 worst-losing orders are **all deep-discounted (40%) furniture** — a thin margin can't survive a deep discount.
+2. **Furniture is a volume trap** — 2nd-highest sales ($6.6M) but the *lowest* profit ($386k): a **5.8% margin** vs 15–19% elsewhere. The 10 worst-losing orders are **all deep-discounted (40%)**, and **9 of the 10 are furniture** — a thin margin can't survive a deep discount.
 3. **Strong Q4 seasonality + real growth** — every year peaks into December then resets in January; 2024 runs above 2023 above 2022.
 
 ## Recommendation
